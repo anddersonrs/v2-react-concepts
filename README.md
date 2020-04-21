@@ -6,6 +6,8 @@ Agora você deve continuar desenvolvendo a aplicação que irá armazenar reposi
 
 ## Rodando a aplicação e testes
 
+- Execute **`yarn`** para baixar todas as dependências.
+  
 - Execute o comando **`yarn start`** para rodar a aplicação.
 
 - Execute **`yarn test`** para rodar os testes.
@@ -26,4 +28,6 @@ Para esse desafio temos os seguintes testes:
 
 - **`should be able to remove repository`**: Para que esse teste passe, sua aplicação deve permitir que ao clicar no botão de remover que vai estar dentro da `LI` do repositório adicionado, o item seja removido da listagem.
 
-### **[@anddersonrs](https://github.com/anddersonrs)**
+Espero ter poder contribuir com conhecimento de alguém, principalmente à aqueles que assim como eu tiveram dificuldades absorver o conhecimento no início dessa aventura que é ser **DEV**.
+
+Github: **[@anddersonrs](https://github.com/anddersonrs)**
